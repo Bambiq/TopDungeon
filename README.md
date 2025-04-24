@@ -44,6 +44,6 @@ Give it a [try](https://bambiq.github.io/Bambiq-Website/GameBuild/index.html)
 <a name="Screenshots"></a>
 ## 📸 Screenshots
 
-![Screenshot 1](GitTopDungeon/screenshots/screenshot1.png)
-![Screenshot 2](GitTopDungeon/screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.PNG1.png)
+![Screenshot 2](screenshots/screenshot1.PNG2.png)
 =======
