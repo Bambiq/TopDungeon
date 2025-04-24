@@ -7,7 +7,7 @@ A **dungeon crawler** game developed by a team of three during the second year o
 ![Static Badge](https://img.shields.io/badge/Language-C%23-red)
 ![Static Badge](https://img.shields.io/badge/Build%20Date-20.04.24-purple)
 
-Give it a [try]
+Give it a [try](https://bambiq.github.io/Bambiq-Website/GameBuild/index.html)
 ---
 <a name="Gameplay Overview"></a>
 ## 🎮 Gameplay Overview
